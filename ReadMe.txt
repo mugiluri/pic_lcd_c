@@ -12,7 +12,7 @@ Downloads
 1. Proteus 8 proffessional
 2. MPLABX ide - www.microchip.com
 3. XC8 compiller - www.microchip.com
-4. Peripheral libraries or pic18 - www.microchip.com
+4. Peripheral libraries for pic18 - www.microchip.com
 
 Making & designing, you need; //Not needed for simulation
 Hardware
@@ -31,9 +31,9 @@ Copy paste those codes in the respective files >> play around with them >> build
 >> Do the same thing in proteus 
 
 NOTE:
-The .Hex file is just for proving that the code works
-Draw that circuit in the picture on proteus software
-After loading the Hex file on the microprocessor, run the simulation.
-The only file you can edit is lcnMain.c and may be the configurations to suite your microprocessor
+1.The .Hex file is just for proving that the code works
+2.Draw that circuit in the picture on proteus software
+3.After loading the Hex file on the microprocessor, run the simulation.
+4.The only file you can edit is lcnMain.c and may be the configurations to suite your microprocessor if not (pic18f4550)
 
 A video will be availled shortly for that purpose
